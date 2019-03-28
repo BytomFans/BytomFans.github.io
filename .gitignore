@@ -1,12 +1,12 @@
 .DS_Store
-.vscode
-.idea
-*.code-workspace
 
 node_modules
 
-.eslintcache
+lib/core/metadata.js
+lib/core/MetadataBlog.js
 
-yarn-error.log
-build
-.docusaurus
+website/translated_docs
+website/build/
+website/yarn.lock
+website/node_modules
+website/i18n/*
